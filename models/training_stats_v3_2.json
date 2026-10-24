@@ -1,0 +1,17 @@
+{
+  "version": "3.2",
+  "total_movies": 32112,
+  "unique_tmdb_ids": 32112,
+  "tfidf_features": 60000,
+  "dataset": "combined_cinematch_dataset_v3.csv",
+  "model": "cinematch_recommender_v3_2.joblib",
+  "original_v3_1_preserved": true,
+  "daman_removed": true,
+  "daman_tmdb_id": 1024350,
+  "daman_rows_removed": 1,
+  "missing_tmdb_ids_repaired": 1,
+  "taare_zameen_par_tmdb_id": 7508,
+  "remaining_missing_tmdb_rows_removed": 150,
+  "duplicate_tmdb_ids_removed": true,
+  "duplicate_rows_removed": 848
+}

@@ -1,0 +1,6 @@
+{
+  "total_movies": 33111,
+  "tfidf_features": 60000,
+  "old_movies": 30610,
+  "new_hindi_marathi_movies": 2501
+}
